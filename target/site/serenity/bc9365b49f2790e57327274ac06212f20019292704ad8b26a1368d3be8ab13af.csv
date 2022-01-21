@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a user I want to validate few features of Games","user can get all data for Games","SUCCESS","2022-01-21T00:14:59.585Z[Europe/London]","0.0","3.5"
+"As a user I want to validate few features of Games","User want to verify defaultGameFrequency should be 300000","SUCCESS","2022-01-21T00:15:04.131Z[Europe/London]","0.0","0.75"
+"As a user I want to validate few features of Games","Game startTime should always be future timestamp","SUCCESS","2022-01-21T00:15:04.925Z[Europe/London]","0.0","0.31"
